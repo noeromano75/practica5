@@ -15,6 +15,9 @@
 		CA8FEB1B27924D8800724358 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA8FEB1927924D8800724358 /* LaunchScreen.storyboard */; };
 		CA8FEB2627924D8800724358 /* practica_5_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8FEB2527924D8800724358 /* practica_5_1Tests.swift */; };
 		CA8FEB3127924D8800724358 /* practica_5_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8FEB3027924D8800724358 /* practica_5_1UITests.swift */; };
+		CA8FEB3F2792503E00724358 /* cobranza.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8FEB3E2792503E00724358 /* cobranza.swift */; };
+		CA8FEB412792520700724358 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8FEB402792520700724358 /* ViewController2.swift */; };
+		CA8FEB4327925A2B00724358 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8FEB4227925A2B00724358 /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		CA8FEB2C27924D8800724358 /* practica_5_1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = practica_5_1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA8FEB3027924D8800724358 /* practica_5_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = practica_5_1UITests.swift; sourceTree = "<group>"; };
 		CA8FEB3227924D8800724358 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CA8FEB3E2792503E00724358 /* cobranza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cobranza.swift; sourceTree = "<group>"; };
+		CA8FEB402792520700724358 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		CA8FEB4227925A2B00724358 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +108,10 @@
 				CA8FEB0E27924D8700724358 /* AppDelegate.swift */,
 				CA8FEB1027924D8700724358 /* SceneDelegate.swift */,
 				CA8FEB1227924D8700724358 /* ViewController.swift */,
+				CA8FEB4227925A2B00724358 /* ViewController3.swift */,
 				CA8FEB1427924D8700724358 /* Main.storyboard */,
+				CA8FEB402792520700724358 /* ViewController2.swift */,
+				CA8FEB3E2792503E00724358 /* cobranza.swift */,
 				CA8FEB1727924D8800724358 /* Assets.xcassets */,
 				CA8FEB1927924D8800724358 /* LaunchScreen.storyboard */,
 				CA8FEB1C27924D8800724358 /* Info.plist */,
@@ -259,7 +268,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA8FEB412792520700724358 /* ViewController2.swift in Sources */,
 				CA8FEB1327924D8700724358 /* ViewController.swift in Sources */,
+				CA8FEB4327925A2B00724358 /* ViewController3.swift in Sources */,
+				CA8FEB3F2792503E00724358 /* cobranza.swift in Sources */,
 				CA8FEB0F27924D8700724358 /* AppDelegate.swift in Sources */,
 				CA8FEB1127924D8700724358 /* SceneDelegate.swift in Sources */,
 			);
